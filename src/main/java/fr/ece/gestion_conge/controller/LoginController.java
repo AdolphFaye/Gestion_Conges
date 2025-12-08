@@ -1,4 +1,4 @@
-package fr.ece.gestion_conge.Controller;
+package fr.ece.gestion_conge.controller;
 
 import fr.ece.gestion_conge.dao.UserDAO;
 import fr.ece.gestion_conge.model.Utilisateur;

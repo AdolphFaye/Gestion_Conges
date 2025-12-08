@@ -1,4 +1,4 @@
-package fr.ece.gestion_conge;
+package fr.ece.gestion_conge.controller;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
